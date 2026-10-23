@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "slow-horses",
+    "type": "series",
+    "name": "Unknown",
+    "year": null,
+    "rating": 0,
+    "genres": [],
+    "runtime": 0,
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//oBqlO6ZjTcVFiE0lBj89lAOi18s.jpg",
+    "background": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//oBqlO6ZjTcVFiE0lBj89lAOi18s.jpg",
+    "description": "",
+    "countries": [
+      "PT"
+    ],
+    "inLanguage": "pt",
+    "director": [
+      "Unknown"
+    ],
+    "cast": [],
+    "numSeasons": 1
+  }
+}

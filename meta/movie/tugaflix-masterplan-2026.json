@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "masterplan-2026",
+    "type": "movie",
+    "name": "Unknown",
+    "year": null,
+    "rating": 0,
+    "genres": [],
+    "runtime": 0,
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "background": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "description": "",
+    "countries": [
+      "PT"
+    ],
+    "inLanguage": "pt",
+    "director": [
+      "Unknown"
+    ],
+    "cast": []
+  }
+}

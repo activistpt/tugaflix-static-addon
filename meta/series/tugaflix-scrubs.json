@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "scrubs",
+    "type": "series",
+    "name": "Unknown",
+    "year": null,
+    "rating": 0,
+    "genres": [],
+    "runtime": 0,
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+    "background": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+    "description": "",
+    "countries": [
+      "PT"
+    ],
+    "inLanguage": "pt",
+    "director": [
+      "Unknown"
+    ],
+    "cast": [],
+    "numSeasons": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "bad-apples-2026",
+    "type": "movie",
+    "name": "Unknown",
+    "year": null,
+    "rating": 0,
+    "genres": [],
+    "runtime": 0,
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "background": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "description": "",
+    "countries": [
+      "PT"
+    ],
+    "inLanguage": "pt",
+    "director": [
+      "Unknown"
+    ],
+    "cast": []
+  }
+}

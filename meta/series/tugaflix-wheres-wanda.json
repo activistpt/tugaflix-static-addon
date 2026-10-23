@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "wheres-wanda",
+    "type": "series",
+    "name": "Unknown",
+    "year": null,
+    "rating": 0,
+    "genres": [],
+    "runtime": 0,
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//1bDpAtoFlBGzQbrfEyfTbB0dsFv.jpg",
+    "background": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//1bDpAtoFlBGzQbrfEyfTbB0dsFv.jpg",
+    "description": "",
+    "countries": [
+      "PT"
+    ],
+    "inLanguage": "pt",
+    "director": [
+      "Unknown"
+    ],
+    "cast": [],
+    "numSeasons": 1
+  }
+}

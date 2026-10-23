@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "Unknown",
+      "description": "",
+      "url": "https://example.com/placeholder.mp4",
+      "quality": "HD",
+      "lang": "pt",
+      "subtitles": []
+    }
+  ]
+}

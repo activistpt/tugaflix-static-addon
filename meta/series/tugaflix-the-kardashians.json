@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "the-kardashians",
+    "type": "series",
+    "name": "Unknown",
+    "year": null,
+    "rating": 0,
+    "genres": [],
+    "runtime": 0,
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//zxp0rXiQM8uS2RqQfc6G4aorIyS.jpg",
+    "background": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//zxp0rXiQM8uS2RqQfc6G4aorIyS.jpg",
+    "description": "",
+    "countries": [
+      "PT"
+    ],
+    "inLanguage": "pt",
+    "director": [
+      "Unknown"
+    ],
+    "cast": [],
+    "numSeasons": 1
+  }
+}

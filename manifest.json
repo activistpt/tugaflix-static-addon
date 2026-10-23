@@ -1,13 +1,22 @@
 {
-  "id": "org.activistpt.tugaflix-static",
+  "id": "org.activistpt.tugaflix-dynamic",
   "name": "TugaFlix Stremio Addon",
-  "description": "Filmes e Séries online grátis com legendas PT",
-  "version": "1.0.0",
+  "description": "Catalogo completo do TugaFlix com legendas PT",
+  "version": "2.0.0",
   "logo": "https://tugaflix.site/wp-content/uploads/icon.png",
   "background": "https://images.unsplash.com/photo-1574717024253-903e4ce9bd26?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
-  "types": ["movie", "series"],
-  "resources": ["catalog", "meta", "stream"],
-  "idPrefixes": ["tugaflix:"],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "idPrefixes": [
+    "tugaflix:"
+  ],
   "language": "pt",
   "catalogs": [
     {
@@ -35,5 +44,9 @@
       ]
     }
   ],
-  "behavior": ["cachable", "noRuntimeCache"]
+  "behavior": [
+    "cachable",
+    "noRuntimeCache"
+  ],
+  "latestVersion": "2.0.0"
 }

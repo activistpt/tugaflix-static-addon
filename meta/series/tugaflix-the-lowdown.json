@@ -1,6 +1,6 @@
 {
   "meta": {
-    "id": "tugaflix:the-lowdown",
+    "id": "the-lowdown",
     "type": "series",
     "name": "The Lowdown",
     "year": 2025,
@@ -18,7 +18,7 @@
     "website": "https://tugaflix.site/series/the-lowdown/",
     "videos": [
       {
-        "id": "tugaflix:the-lowdown:1:1",
+        "id": "the-lowdown:1:1",
         "title": "Episode 1 - Pilot",
         "season": 1,
         "episode": 1,
@@ -28,7 +28,7 @@
         "runtime": 25
       },
       {
-        "id": "tugaflix:the-lowdown:1:2",
+        "id": "the-lowdown:1:2",
         "title": "Episode 2 - The Influencer",
         "season": 1,
         "episode": 2,

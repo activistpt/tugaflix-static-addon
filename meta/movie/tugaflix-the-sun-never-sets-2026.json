@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "the-sun-never-sets-2026",
+    "type": "movie",
+    "name": "Unknown",
+    "year": null,
+    "rating": 0,
+    "genres": [],
+    "runtime": 0,
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//hpzzGHyVN4nE0GzqoAu12ko6ER3.jpg",
+    "background": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//hpzzGHyVN4nE0GzqoAu12ko6ER3.jpg",
+    "description": "",
+    "countries": [
+      "PT"
+    ],
+    "inLanguage": "pt",
+    "director": [
+      "Unknown"
+    ],
+    "cast": []
+  }
+}

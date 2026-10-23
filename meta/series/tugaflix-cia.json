@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "cia",
+    "type": "series",
+    "name": "Unknown",
+    "year": null,
+    "rating": 0,
+    "genres": [],
+    "runtime": 0,
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "background": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "description": "",
+    "countries": [
+      "PT"
+    ],
+    "inLanguage": "pt",
+    "director": [
+      "Unknown"
+    ],
+    "cast": [],
+    "numSeasons": 1
+  }
+}

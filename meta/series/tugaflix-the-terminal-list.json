@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "the-terminal-list",
+    "type": "series",
+    "name": "Unknown",
+    "year": null,
+    "rating": 0,
+    "genres": [],
+    "runtime": 0,
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//ujVz6YZxBkDsw3wanO2AKhl3A9y.jpg",
+    "background": "https://image.tmdb.org/t/p/w220_and_h330_bestv2//ujVz6YZxBkDsw3wanO2AKhl3A9y.jpg",
+    "description": "",
+    "countries": [
+      "PT"
+    ],
+    "inLanguage": "pt",
+    "director": [
+      "Unknown"
+    ],
+    "cast": [],
+    "numSeasons": 1
+  }
+}
