@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "The Lowdown - Season 1 Episode 1",
+      "description": "Comedy series pilot episode with Portuguese subtitles",
+      "url": "https://example.com/series/the-lowdown/S01E01.mp4",
+      "quality": "HD",
+      "lang": "pt",
+      "subtitles": [
+        {
+          "lang": "pt-PT",
+          "language": "Português",
+          "url": "https://tugaflix.site/sub/The.Lowdown.2025.S01E01.The.Rupidoop.1080p.DSNP.WEB-DL.DDP5.1.H.264-RAWR.por.vtt",
+          "mimeType": "text/vtt"
+        }
+      ]
+    }
+  ]
+}

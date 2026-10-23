@@ -1,0 +1,39 @@
+{
+  "metas": [
+    {
+      "id": "tugaflix:the-wrong-girls-2026",
+      "type": "movie",
+      "name": "The Wrong Girls",
+      "year": 2026,
+      "rating": 7.2,
+      "genres": ["Comedy", "Romance"],
+      "runtime": 105,
+      "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "background": "https://images.unsplash.com/photo-1542036728082-3346a1f7e6b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "description": "Una joven culpable de un secuestro accidentalmente mata al niño que secuestró. Un año después, regresa a la ciudad para asumir su culpa y es perseguida por una adolescente psquiatriada.",
+      "countries": ["US"],
+      "inLanguage": "en",
+      "director": ["Maggie Carey"],
+      "cast": ["Bette Midler", "Miyu Irino", "Christina Hendricks"],
+      "website": "https://tugaflix.site/filmes/the-wrong-girls-2026/"
+    },
+    {
+      "id": "tugaflix:parasite-2019",
+      "type": "movie",
+      "name": "Parasite",
+      "year": 2019,
+      "rating": 8.6,
+      "genres": ["Thriller", "Drama", "Comedy"],
+      "runtime": 132,
+      "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2/7IiTTgloJzvGIMyR6ojA6knO6jj.jpg",
+      "background": "https://images.unsplash.com/photo-1537944434965-eed0e9b32d19?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "description": "Todos os membros da família Kim, que vivem em uma casa subterrânea pobre em Seul, trabalham como empregados domésticos na casa mais rica de Seul. A família mais rica, os Park, mantém uma postura casual sobre os empregados e vice-versa.",
+      "countries": ["KR"],
+      "inLanguage": "ko",
+      "director": ["Bong Joon Ho"],
+      "cast": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+      "website": "https://tugaflix.site/filmes/parasite-2019/"
+    }
+  ],
+  "hasMore": true
+}

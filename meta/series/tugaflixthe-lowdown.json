@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "id": "tugaflix:the-lowdown",
+    "type": "series",
+    "name": "The Lowdown",
+    "year": 2025,
+    "rating": 8.2,
+    "genres": ["Comedy"],
+    "runtime": 25,
+    "poster": "https://via.placeholder.com/220x330/1a1a2e/FFFFFF?text=The+Lowdown",
+    "background": "https://images.unsplash.com/photo-1574717024253-903e4ce9bd26?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+    "description": "A comedy series following the adventures of a struggling writer who becomes an unlikely influencer.",
+    "countries": ["US"],
+    "inLanguage": "en",
+    "creator": ["Phil Morrison"],
+    "cast": ["Wyatt Russell", "Antonia Wright", "Dale Dobson"],
+    "numSeasons": 2,
+    "website": "https://tugaflix.site/series/the-lowdown/",
+    "videos": [
+      {
+        "id": "tugaflix:the-lowdown:1:1",
+        "title": "Episode 1 - Pilot",
+        "season": 1,
+        "episode": 1,
+        "poster": "https://via.placeholder.com/300x450/2a2a3e/FFFFFF?text=Ep.1",
+        "description": "Pilot episode",
+        "released": "2025-01-01",
+        "runtime": 25
+      },
+      {
+        "id": "tugaflix:the-lowdown:1:2",
+        "title": "Episode 2 - The Influencer",
+        "season": 1,
+        "episode": 2,
+        "poster": "https://via.placeholder.com/300x450/2a2a3e/FFFFFF?text=Ep.2",
+        "description": "The influencer episode",
+        "released": "2025-01-08",
+        "runtime": 25
+      }
+    ]
+  }
+}
