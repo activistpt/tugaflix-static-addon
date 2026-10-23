@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "The Wrong Girls (2026)",
+      "description": "Test movie stream with Portuguese subtitles",
+      "url": "https://example.com/movies/the-wrong-girls-2026.mp4",
+      "quality": "HD",
+      "lang": "pt",
+      "subtitles": [
+        {
+          "lang": "pt-PT",
+          "language": "Português",
+          "url": "https://tugaflix.site/sub/The.Wrong.Girls.2026.1080p.WEBRip.x264.AAC5.1-YTS-tt35060353.por.srt",
+          "mimeType": "text/srt"
+        }
+      ]
+    }
+  ]
+}
